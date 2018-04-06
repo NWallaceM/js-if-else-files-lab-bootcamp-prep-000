@@ -1,6 +1,7 @@
 var name = "Joe"
 var height = "74"
-if (name === "")
+if (name === "Joe")
+console.log ("The name is cor")
 // Don't worry about this
 module.exports = { name, height
 }
